@@ -1,0 +1,127 @@
+Achilles_fitness_decrease,Disease/Drugs,Relative Cell Proliferation
+Achilles_fitness_increase,Disease/Drugs,Relative Cell Proliferation
+Aging_Perturbations_from_GEO_down,Crowd,Microarray
+Aging_Perturbations_from_GEO_up,Crowd,Microarray
+Allen_Brain_Atlas_down,Cell Types,Microarray
+Allen_Brain_Atlas_up,Cell Types,Microarray
+ARCHS4_Cell-lines,Cell Types,RNA-seq
+ARCHS4_IDG_Coexp,Disease/Drugs,RNA-seq
+ARCHS4_Kinases_Coexp,Pathways,RNA-seq
+ARCHS4_TFs_Coexp,Transcription,RNA-seq
+ARCHS4_Tissues,Cell Types,RNA-seq
+BioCarta_2013,Legacy,Literature
+BioCarta_2015,Legacy,Literature
+BioCarta_2016,Pathways,Literature
+BioPlex_2017,Pathways,Mass Spectrometry
+Cancer_Cell_Line_Encyclopedia,Cell Types,Microarray
+ChEA_2013,Legacy,ChIP-seq
+ChEA_2015,Legacy,ChIP-seq
+ChEA_2016,Transcription,ChIP-seq
+CORUM,Pathways,Mass Spectrometry
+dbGaP,Disease/Drugs,GWAS
+Disease_Perturbations_from_GEO_down,Crowd,Microarray
+Disease_Perturbations_from_GEO_up,Crowd,Microarray
+Disease_Signatures_from_GEO_down_2014,Legacy,Microarray
+Disease_Signatures_from_GEO_up_2014,Legacy,Microarray
+Drug_Perturbations_from_GEO_2014,Legacy,Microarray
+Drug_Perturbations_from_GEO_down,Crowd,Microarray
+Drug_Perturbations_from_GEO_up,Crowd,Microarray
+DrugMatrix,Disease/Drugs,Microarray
+ENCODE_and_ChEA_Consensus_TFs_from_ChIP-X,Transcription,ChIP-seq
+ENCODE_Histone_Modifications_2013,Legacy,ChIP-seq
+ENCODE_Histone_Modifications_2015,Transcription,ChIP-seq
+ENCODE_TF_ChIP-seq_2014,Legacy,ChIP-seq
+ENCODE_TF_ChIP-seq_2015,Transcription,ChIP-seq
+Epigenomics_Roadmap_HM_ChIP-seq,Transcription,ChIP-seq
+ESCAPE,Cell Types,Multiple Assays
+Genes_Associated_with_NIH_Grants,Misc,Literature
+GeneSigDB,Disease/Drugs,Data aggregation
+Genome_Browser_PWMs,Transcription,Sequence Analysis
+GO_Biological_Process_2013,Legacy,Literature
+GO_Biological_Process_2015,Legacy,Literature
+GO_Biological_Process_2017,Legacy,Literature
+GO_Biological_Process_2017b,Ontologies,Literature
+GO_Cellular_Component_2013,Legacy,Literature
+GO_Cellular_Component_2015,Legacy,Literature
+GO_Cellular_Component_2017,Legacy,Literature
+GO_Cellular_Component_2017b,Ontologies,Literature
+GO_Molecular_Function_2013,Legacy,Literature
+GO_Molecular_Function_2015,Legacy,Literature
+GO_Molecular_Function_2017,Legacy,Literature
+GO_Molecular_Function_2017b,Ontologies,Literature
+GTEx_Tissue_Sample_Gene_Expression_Profiles_down,Cell Types,RNA-seq
+GTEx_Tissue_Sample_Gene_Expression_Profiles_up,Cell Types,RNA-seq
+HMDB_Metabolites,Misc,Literature
+Human_Gene_Atlas,Cell Types,Microarray
+Human_Phenotype_Ontology,Ontologies,Literature
+HumanCyc_2015,Legacy,Literature
+Humancyc_2016,Pathways,Literature
+huMAP,Pathways,Mass Spectrometry
+Jensen_COMPARTMENTS,Ontologies,Literature
+Jensen_DISEASES,Ontologies,Literature
+Jensen_TISSUES,Ontologies,Literature
+KEA_2013,Legacy,Literature
+KEA_2015,Pathways,Literature
+KEGG_2013,Legacy,Literature
+KEGG_2015,Legacy,Literature
+KEGG_2016,Pathways,Literature
+Kinase_Perturbations_from_GEO_down,Pathways,Microarray
+Kinase_Perturbations_from_GEO_up,Pathways,Microarray
+Ligand_Perturbations_from_GEO_down,Crowd,Microarray
+Ligand_Perturbations_from_GEO_up,Crowd,Microarray
+LINCS_L1000_Chem_Pert_down,Disease/Drugs,L1000 Expression Profiling
+LINCS_L1000_Chem_Pert_up,Disease/Drugs,L1000 Expression Profiling
+LINCS_L1000_Kinase_Perturbations_down,Pathways,L1000 Expression Profiling
+LINCS_L1000_Kinase_Perturbations_up,Pathways,L1000 Expression Profiling
+LINCS_L1000_Ligand_Perturbations_down,Disease/Drugs,L1000 Expression Profiling
+LINCS_L1000_Ligand_Perturbations_up,Disease/Drugs,L1000 Expression Profiling
+MCF7_Perturbations_from_GEO_down,Crowd,Microarray
+MCF7_Perturbations_from_GEO_up,Crowd,Microarray
+MGI_Mammalian_Phenotype_2013,Legacy,KO Mice Phenotyping
+MGI_Mammalian_Phenotype_2017,Ontologies,KO Mice Phenotyping
+MGI_Mammalian_Phenotype_Level_3,Legacy,KO Mice Phenotyping
+MGI_Mammalian_Phenotype_Level_4,Legacy,KO Mice Phenotyping
+Microbe_Perturbations_from_GEO_down,Crowd,Microarray
+Microbe_Perturbations_from_GEO_up,Crowd,Microarray
+miRTarBase_2017,Transcription,Sequence Analysis
+MSigDB_Computational,Disease/Drugs,Microarray
+MSigDB_Oncogenic_Signatures,Disease/Drugs,Microarray
+NCI-60_Cancer_Cell_Lines,Cell Types,Microarray
+NCI-Nature_2015,Legacy,Literature
+NCI-Nature_2016,Pathways,Literature
+NURSA_Human_Endogenous_Complexome,Pathways,Mass Spectrometry
+Old_CMAP_down,Disease/Drugs,Microarray
+Old_CMAP_up,Disease/Drugs,Microarray
+OMIM_Disease,Disease/Drugs,Literature
+OMIM_Expanded,Disease/Drugs,Literature
+Panther_2015,Legacy,Literature
+Panther_2016,Pathways,Literature
+Phosphatase_Substrates_from_DEPOD,Pathways,Literature
+PPI_Hub_Proteins,Pathways,Literature
+Reactome_2013,Legacy,Literature
+Reactome_2015,Legacy,Literature
+Reactome_2016,Pathways,Literature
+RNA-Seq_Disease_Gene_and_Drug_Signatures_from_GEO,Crowd,RNA-seq
+SILAC_Phosphoproteomics,Pathways,Mass Spectrometry
+Single_Gene_Perturbations_from_GEO_down,Crowd,Microarray
+Single_Gene_Perturbations_from_GEO_up,Crowd,Microarray
+SysMyo_Muscle_Gene_Sets,Crowd,Literature
+TargetScan_microRNA_2017,Transcription,Sequence Analysis
+TargetScan_microRNA,Legacy,Sequence Analysis
+TF-LOF_Expression_from_GEO,Transcription,Microarray
+Tissue_Protein_Expression_from_ProteomicsDB,Cell Types,Mass Spectrometry
+Transcription_Factor_PPIs,Transcription,Literature
+TRANSFAC_and_JASPAR_PWMs,Transcription,Sequence Analysis
+Virus_Perturbations_from_GEO_down,Disease/Drugs,Microarray
+Virus_Perturbations_from_GEO_up,Disease/Drugs,Microarray
+VirusMINT,Disease/Drugs,Literature
+WikiPathways_2013,Legacy,Literature
+WikiPathways_2015,Legacy,Literature
+WikiPathways_2016,Pathways,Literature
+Chromosome_Location,Misc,Sequence Analysis
+Pfam_InterPro_Domains,Misc,Sequence Analysis
+HomoloGene,Misc,Sequence Analysis
+Enrichr_Libraries_Most_Popular_Genes,Misc,Meta-analysis
+Tissue_Protein_Expression_from_Human_Proteome_Map,Cell Types,Mass Spectrometry
+Mouse_Gene_Atlas,Cell Types,Microarray
+Enrichr_Submissions_TF-Gene_Coocurrence,Transcription,Meta-analysis
